@@ -22,7 +22,7 @@
 				
 				<h3>Internal Project Management <sup>&beta; v1.0</sup></h3>
 				
-				<form class="m-t" role="form" action="http://localhost/laravel/dashboard/">
+				<form class="m-t" role="form" action="http://localhost/dashboard/">
 					<div class="form-group">
 						<input type="text" class="form-control text-center" placeholder="Username" required="">
 					</div>
